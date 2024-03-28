@@ -1,2 +1,3 @@
 # Decision_Tree_ML
-I coded a recursive decision tree algorithm from scratch.
+This is a Machine Learning project that involved a Classification Regression Trees algorithm.
+I coded this recursive decision tree algorithm from scratch.
